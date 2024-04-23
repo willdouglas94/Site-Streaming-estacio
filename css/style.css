@@ -1,11 +1,28 @@
-             
+
+
+ 
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-image: url("../imagens/logo_titulo.png");
+    background-image: url('/imagens/inicio.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
 }
 
 .titulo { 
-    color: rgb(21, 20, 20);
+    color: black, 20, 20;
     display: flex;
     justify-content: center;
     align-items: center;

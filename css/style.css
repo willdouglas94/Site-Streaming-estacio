@@ -21,6 +21,22 @@ body {
     
 }
 
+table{
+    width: 600px;
+    margin: 20px auto;
+    border: 2px solid rgb(2, 2, 2);
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    text-align: center;
+
+
+}
+
 .titulo { 
     color: black, 20, 20;
     display: flex;
@@ -44,7 +60,6 @@ body {
     text-align: center;
 
 }
-
 
 
 
